@@ -9,3 +9,4 @@ Pedido: Id, Número do pedido, Data de criação.<br/>
 Item do Pedido: Id, Nome, Valor Unitário.<br/><br/>
 **Fique atento aos relacionamentos.**<br/>
 O pedido deverá ter um valor total com os items e a quantidade de cada item.
+tezte
